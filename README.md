@@ -16,6 +16,7 @@ Research reports and scouting work by **Trent Reimers**, built on MLB Statcast a
 | [Who Owns Whom?](Research/Who%20Owns%20Whom.pdf) | Oct 2026 | Predicting batter–pitcher matchups from career lines, head-to-head history and archetypes (MLB 2020–26). |
 | [Another Hard-Hit Out](Research/Another%20Hard%20Hit%20Out.pdf) | Oct 2026 | Direction-aware xBA, xSLG and fielding: adding spray angle, handedness and alignment to Statcast's expected stats. |
 | [The Pitch Count Battle](Research/Pitch%20Count%20Battle.pdf) | Oct 2026 | Do teams that throw fewer pitches win more, and why? MLB 2021–26 and NCAA D-I 2026. |
+| [Who Gets Drafted?](Research/Who%20Gets%20Drafted.pdf) | Oct 2026 | What the draft rewards in D-I players: performance against all of D-I, competition, tools, and whether transferring up or a high-school draft pedigree helps. |
 
 ---
 
