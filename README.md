@@ -17,6 +17,9 @@ Research reports and scouting work by **Trent Reimers**, built on MLB Statcast a
 | [Another Hard-Hit Out](Research/Another%20Hard%20Hit%20Out.pdf) | Oct 2026 | Direction-aware xBA, xSLG and fielding: adding spray angle, handedness and alignment to Statcast's expected stats. |
 | [The Pitch Count Battle](Research/Pitch%20Count%20Battle.pdf) | Oct 2026 | Do teams that throw fewer pitches win more, and why? MLB 2021–26 and NCAA D-I 2026. |
 | [Who Gets Drafted?](Research/Who%20Gets%20Drafted.pdf) | Oct 2026 | What the draft rewards in D-I players: performance against all of D-I, competition, tools, and whether transferring up or a high-school draft pedigree helps. |
+| [Checking the Booth](Research/Checking%20the%20Booth.pdf) | Oct 2026 | John Smoltz's World Series Game 3 commentary, tested claim by claim against Statcast and Retrosheet. |
+| [The Extension Bonus](Research/The%20Extension%20Bonus.pdf) | Oct 2026 | Do big extenders earn more called strikes than their perceived-velocity boost explains? On four-seamers, yes, with no extra bonus at the top. |
+| [Rest Is Not Armor](Research/Rest%20Is%20Not%20Armor.pdf) | Oct 2026 | A hypothetical 2027 Dodgers rotation with Yamamoto every sixth day: does extra rest protect arms, and what does each plan cost over simulated seasons? |
 
 ---
 
